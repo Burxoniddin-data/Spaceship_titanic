@@ -41,8 +41,6 @@ The **Spaceship Titanic** competition is a binary classification challenge where
    - Tried multiple machine learning models:
      - Logistic Regression
      - Random Forest
-     - Gradient Boosting (e.g., XGBoost, LightGBM)
-   - Optimized models using grid search and cross-validation.
 ### 4. **Evaluation**
    - Assessed models using accuracy on the validation set.
    - Selected the best model for final predictions.
