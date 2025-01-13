@@ -5,23 +5,15 @@ This repository contains my solution for the **Spaceship Titanic** competition o
 
 ## 📂 Project Structure
 ```
-├── data/                   # Dataset files
-│   ├── train.csv           # Training dataset
-│   ├── test.csv            # Testing dataset
-│   ├── sample_submission.csv # Sample submission file
-├── notebooks/              # Jupyter notebooks for analysis and modeling
-│   ├── EDA.ipynb           # Exploratory Data Analysis
-│   ├── Feature_Engineering.ipynb # Feature engineering steps
-│   ├── Model_Building.ipynb # Model training and evaluation
-├── src/                    # Source code
-│   ├── data_processing.py  # Functions for data preprocessing
-│   ├── model.py            # Code for model creation and training
-│   ├── utils.py            # Utility functions
-├── outputs/                # Generated files (e.g., final models, predictions)
-│   ├── final_model.pkl     # Trained model
-│   ├── submission.csv      # Submission file
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
+├── data/                   
+│   ├── train.csv           
+│   ├── test.csv            
+│   ├── sample_submission.csv 
+├── notebooks/             
+│   ├── spaceship_titanic.py
+│   ├── submissions.csv     
+├── requirements.txt
+├── README.md
 ```
 
 ---
