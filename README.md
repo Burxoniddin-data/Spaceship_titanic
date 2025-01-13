@@ -49,39 +49,9 @@ The **Spaceship Titanic** competition is a binary classification challenge where
 
 ---
 
-## 🛠️ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/spaceship-titanic.git
-   cd spaceship-titanic
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the dataset from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/data) and place it in the `data/` directory.
-
----
-
-## ▶️ Usage
-Run the Jupyter notebooks to explore the data and build the model:
-```bash
-jupyter notebook
-```
-To generate predictions:
-```bash
-python src/model.py
-```
-
----
-
 ## 📊 Results
 - Best Model: [Model Name]
 - Validation Accuracy: **XX.XX%**
 - Kaggle Submission Accuracy: **XX.XX%**
 
 ---
-
-## 🙌 Acknowledgments
-- [Kaggle](https://www.kaggle.com/) for hosting the competition.
-- The creators of libraries like Pandas, NumPy, Scikit-learn, and Matplotlib.
