@@ -48,8 +48,6 @@ The **Spaceship Titanic** competition is a binary classification challenge where
 ---
 
 ## 📊 Results
-- Best Model: [Model Name]
-- Validation Accuracy: **XX.XX%**
-- Kaggle Submission Accuracy: **XX.XX%**
-
+- Best Model: XGBClassifier
+- Validation Accuracy: **74.72%**
 ---
